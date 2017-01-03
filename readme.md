@@ -2,4 +2,6 @@
 
 Author: Severin Scherer, Berhard Fradl, Felix Nyffenegger
 
-Remark: Once the Framework is stabel, it should be deployed to PlattfromIO, so it can be easely integrated and referenced into new projects.
+See /docs for detailed documentation.
+
+Remark: Once the Framework is stable, it should be deployed to PlatformIO, so it can be easily integrated and referenced into new projects.
