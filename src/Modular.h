@@ -1,5 +1,5 @@
-#ifndef LCLabEmbededFramework_h
-#define LCLabEmbededFramework_h
+#ifndef Modular_h
+#define Modular_h
 
 class Component
 {
